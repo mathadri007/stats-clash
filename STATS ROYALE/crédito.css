@@ -1,0 +1,33 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: gold;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+}
+
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+}
+
+h4{
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+}
+
+body{
+    background-image: url(STATS.png);
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
