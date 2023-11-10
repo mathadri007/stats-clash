@@ -1,0 +1,11 @@
+body{
+    background-image: url(STATS.png);
+}
+
+.mimiPeka{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    width: 650px;
+    height: 650px;
+}
