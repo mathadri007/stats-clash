@@ -1,4 +1,4 @@
-   <script>
+   
         
         function logar(){
             event.preventDefault();
@@ -14,5 +14,3 @@
             }
         }
 
-
-    </script>
